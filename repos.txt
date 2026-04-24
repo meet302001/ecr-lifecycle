@@ -1,0 +1,5 @@
+# List your ECR repository names here, one per line.
+# Example:
+# my-backend-service
+# my-frontend-app
+# my-worker-service
